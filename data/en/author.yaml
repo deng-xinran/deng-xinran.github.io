@@ -1,0 +1,20 @@
+# some information about you
+name: "Xinran Deng"
+nickname: "John"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/john.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "xinrandeng1994@gmail.com"
+  phone: "+0123456789"
+  github: johndoe
+  linkedin: johndoe
+
+# some summary about what you do
+summary:
+  - I am a Software Developer
+  - I am a AI Engieer
+  - I am a Machine Learning Engieer
+  - I work on xxx projects
+  - I love to work with some fun projects
