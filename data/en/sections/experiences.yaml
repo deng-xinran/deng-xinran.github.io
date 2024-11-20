@@ -42,7 +42,7 @@ experiences:
     - Learn k,d,w technology for xyz.
 
 - company:
-  -name: MPI Informatics
+  - name: MPI Informatics
   - url: "https://www.mpi-inf.mpg.de/de/home"
   - location: Saarbücken
   - designation: Research Assistant (D4 Group for computer graphics)
@@ -53,7 +53,7 @@ experiences:
     - yyy
 
 - company:
-  -name: Whale Cloud Technology Luxembourg S.à r.l.
+  - name: Whale Cloud Technology Luxembourg S.à r.l.
   - url: "https://online.iwhalecloud.com/"
   - location: Luxembourg
   - designation: OSS Engineer(Intern)
