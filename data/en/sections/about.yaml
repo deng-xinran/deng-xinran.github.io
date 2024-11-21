@@ -86,10 +86,7 @@ socialLinks:
 #   percentage: 85
 #   color: orange
 
-# - type: soft-skill-indicator
-#   name: Cross-Cultural Communication
-#   percentage: 85
-#   color: orange 
+#  
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
