@@ -34,12 +34,12 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
+    title: "Xinran's Blog"
     weight: 1
-  bn:
-    languageCode: bn
-    languageName: বাংলা
-    title: "জনের ব্লগ"
+  de:
+    languageCode: de
+    languageName: Deutsch
+    title: "Blog von Xinran"
     weight: 2
 
 # default language for the content
