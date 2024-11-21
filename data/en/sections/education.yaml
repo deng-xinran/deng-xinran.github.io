@@ -16,7 +16,7 @@ degrees:
   institution:
     name: Saarland University (Universtät des Saarlandes)
     url: "https://www.uni-saarland.de/start.html"
-    logo: static/images/educations/uds_logo (1).png # Path of the logo image
+    logo: assets/sections/educations/uds_logo (1).png # Path of the logo image
     #darkLogo: /images/education/college-dark.png #(optional), Can optionally show a different logo for dark theme
   # grade: #(optional)
   #   scale: CGPA
@@ -46,6 +46,6 @@ degrees:
   institution:
     name: South China Agricultural University
     url: "https://www.scau.edu.cn/"
-    logo: static/images/educations/scau_logo.png # Path of the logo image
+    logo: sassets/sections/educations/scau_logo.png # Path of the logo image
     #darkLogo: /images/education/college-dark.png #(optional), Can optionally show a different logo for dark theme
   
