@@ -1,7 +1,7 @@
 section:
   name: Experiences # Titre de la section (par défaut: "" )
   id: experiences # url id/slug of section *Required*
-  enable: false
+  enable: true
   weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
@@ -14,7 +14,7 @@ experiences:
     name: HTW Saar
     url: "https://www.htwsaar.de/"
     location: Saarbrücken, Germany
-    logo: assets/sections/experiences/htw-saarland.png
+    logo: images/experiences/htw-saarland.png
     #darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
     # company overview
     #overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
@@ -33,6 +33,7 @@ experiences:
   - name: Fraunhofer IZFP
   - url: "https://www.izfp.fraunhofer.de/"
   - location: Saarbücken
+  - logo: images/experiences/fh_logo.jpg
   - designation: Research Assistant
     start: Jul 2022
     end: Apr 2024
