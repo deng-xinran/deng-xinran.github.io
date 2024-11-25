@@ -20,17 +20,45 @@ skills:
 skills:
 - name: Python
   logo: images/sections/skills/Python-logo-notext.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+  summary: "Proficient in developing machine learning and deep learning solutions, with expertise in libraries like NumPy, Pandas, scikit-learn and Matplotlib."
+  url: "https://www.python.org/"
 
-# skills:
-# - name: Linux
-#   logo: /images/sections/skills/kubernetes.png
-#   summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-#   url: "https://kubernetes.io/"
-# skills:
-# - name: Kubernetes
-#   logo: /images/sections/skills/kubernetes.png
-#   summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-#   url: "https://kubernetes.io/"
+skills:
+- name: Pytorch
+  logo: images/sections/skills/torch logo.png
+  summary: "Skilled in designing, training, and optimizing deep learning models for various applications."
+  url: "https://pytorch.org/"
+
+
+skills:
+- name: ONNX
+  logo: /images/sections/skills/onnx_logo.png
+  summary: "Proficient in converting and deploying machine learning models across frameworks for optimized performance and interoperability."
+  url: "https://onnx.ai/"
+
+skills:
+- name: OpenCV
+  logo: /images/sections/skills/opencv_logo.png
+  summary: "Skilled in implementing image processing, feature extraction, and object detection for computer vision applications."
+  url: "https://opencv.org/"
+
+skills:
+- name: MatLab
+  logo: /images/sections/skills/matlab_logo.jpeg
+  summary: "Experienced in numerical analysis, signal processing, and developing simulation models for engineering applications."
+  url: "https://www.mathworks.com/products/matlab.html"
+
+
+skills:
+- name: LaTex
+  logo: /images/sections/skills/latex.png
+  summary: "Proficient in creating professional technical reports, academic papers, and presentations with complex mathematical and graphical content."
+  url: "https://de.overleaf.com/project"
+
+
+skills:
+- name: DevOps Tools  
+  logo: /images/sections/skills/terminal-solid.svg
+  summary: "Skilled in containerization and orchestration using Docker and Kubernetes, with experience in CI/CD and cloud deployment."
+  url: "https://de.overleaf.com/project"
 
