@@ -1,7 +1,7 @@
 section:
   name: Experiences # Titre de la section (par défaut: "" )
   id: experiences # url id/slug of section *Required*
-  enable: false
+  enable: true
   weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
@@ -30,10 +30,11 @@ experiences:
     - Lead backend team.
 
 - company:
-  - name: Fraunhofer IZFP
-  - url: "https://www.izfp.fraunhofer.de/"
-  - location: Saarbücken
-  - logo: images/experiences/fh_logo.jpg
+    name: Fraunhofer IZFP
+    url: "https://www.izfp.fraunhofer.de/"
+    location: Saarbücken
+    logo: images/experiences/fh_logo.jpg
+  positions:
   - designation: Research Assistant
     start: Jul 2022
     end: Apr 2024
@@ -43,9 +44,10 @@ experiences:
     - Learn k,d,w technology for xyz.
 
 - company:
-  - name: MPI Informatics
-  - url: "https://www.mpi-inf.mpg.de/de/home"
-  - location: Saarbücken
+    name: MPI Informatics
+    url: "https://www.mpi-inf.mpg.de/de/home"
+    location: Saarbücken
+  positions:
   - designation: Research Assistant (D4 Group for computer graphics)
     start: Nov 2021
     end: Jan 2022
@@ -54,9 +56,10 @@ experiences:
     - yyy
 
 - company:
-  - name: Whale Cloud Technology Luxembourg S.à r.l.
-  - url: "https://online.iwhalecloud.com/"
-  - location: Luxembourg
+    name: Whale Cloud Technology Luxembourg S.à r.l.
+    url: "https://online.iwhalecloud.com/"
+    location: Luxembourg
+  positions:
   - designation: OSS Engineer(Intern)
     start: May 2021
     end: Oct 2021  
