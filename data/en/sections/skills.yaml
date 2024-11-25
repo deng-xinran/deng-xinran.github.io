@@ -11,6 +11,7 @@ section:
 
 # Your Skills.
 # Give a summary of you each skill in the summary section.
+
 skills:
 - name: Kubernetes
   logo: /images/sections/skills/kubernetes.png
@@ -60,5 +61,5 @@ skills:
 - name: DevOps Tools  
   logo: /images/sections/skills/terminal-solid.svg
   summary: "Skilled in containerization and orchestration using Docker and Kubernetes, with experience in CI/CD and cloud deployment."
-  url: "https://de.overleaf.com/project"
+  #url: "https://de.overleaf.com/project"
 

@@ -11,7 +11,8 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Saarland University of Applied Sciences
+    name: HTW Saar
+    #Saarland University of Applied Sciences
     url: "https://www.htwsaar.de/"
     location: Saarbrücken, Germany
     logo: /images/experiences/htw-saarland.png
@@ -30,7 +31,8 @@ experiences:
     - Lead backend team.
 
 - company:
-    name: Fraunhofer Institute for Nondestructive Testing IZFP
+    name: Fraunhofer IZFP
+    # Fraunhofer Institute for Nondestructive Testing IZFP
     url: "https://www.izfp.fraunhofer.de/"
     location: Saarbücken
     logo: /images/experiences/fh_logo.jpg
