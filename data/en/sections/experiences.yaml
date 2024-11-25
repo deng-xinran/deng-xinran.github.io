@@ -50,12 +50,20 @@ experiences:
     url: "https://www.mpi-inf.mpg.de/de/home"
     location: Saarbücken
   positions:
-  - designation: Research Assistant (D4 Group for computer graphics)
+  - designation: Research Assistant (Group for computer graphics)
     start: Nov 2021
     end: Jan 2022
     responsibilities:
     - xxx 
     - yyy
+  positions:
+  - designation: Research Assistant (Group for Visual Computing and Artificial Intelligence)
+    start: Feb 2018
+    end: Mar 2018
+    responsibilities:
+    - xxx 
+    - yyy
+
 
 - company:
     name: Whale Cloud Technology Luxembourg S.à r.l.
