@@ -11,7 +11,7 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: HTW Saar
+    name: HTW Saar (Hochschule für Technik und Wirtschaft des Saarlandes)
     url: "https://www.htwsaar.de/"
     location: Saarbrücken, Germany
     logo: /images/experiences/htw-saarland.png
@@ -30,7 +30,7 @@ experiences:
     - Lead backend team.
 
 - company:
-    name: Fraunhofer IZFP
+    name: Fraunhofer IZFP (Fraunhofer-Institut für Zerstörungsfreie Prüfverfahren IZFP)
     url: "https://www.izfp.fraunhofer.de/"
     location: Saarbücken
     logo: /images/experiences/fh_logo.jpg
