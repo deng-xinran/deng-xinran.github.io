@@ -30,7 +30,6 @@ skills:
   summary: "Skilled in designing, training, and optimizing deep learning models for various applications."
   url: "https://pytorch.org/"
 
-
 skills:
 - name: ONNX
   logo: /images/sections/skills/onnx_logo.png
@@ -49,13 +48,11 @@ skills:
   summary: "Experienced in numerical analysis, signal processing, and developing simulation models for engineering applications."
   url: "https://www.mathworks.com/products/matlab.html"
 
-
 skills:
 - name: LaTex
   logo: /images/sections/skills/latex.png
   summary: "Proficient in creating professional technical reports, academic papers, and presentations with complex mathematical and graphical content."
   url: "https://de.overleaf.com/project"
-
 
 skills:
 - name: DevOps Tools  
