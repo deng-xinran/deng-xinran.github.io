@@ -11,11 +11,11 @@ section:
 designation: AI Researcher
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: HTW Saar
+  url: "https://www.htwsaar.de/"
 
-# your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+# # your resume. this file path should be relative to you "static" directory
+# resume: "files/resume.pdf"
 
 # a summary about you
 summary: 'I am a passionate AI researcher with hands-on experience in developing and deploying machine learning models. I focus on solving challenging problems through predictive modeling, Generative AI, and data-driven insights. My projects include designing algorithms and building tools that bridge the gap between AI research and real-world applications. Occasionally, I dive into side projects like building websites and WeChat Mini Programs, combining technical skills with creativity.'
