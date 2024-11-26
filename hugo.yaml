@@ -119,19 +119,19 @@ params:
     # Enable and configure blog posts
     blog:
       enable: false
-      showAuthor: true
-      # Share post on different social media
-      shareButtons:
-        facebook: true
-        twitter: true
-        linkedin: true
-        reddit: true
-        whatsapp: true
-        email: true
-        # tumblr: true
-        # pocket: true
-        # diaspora: true
-        # mastodon: true
+      # showAuthor: true
+      # # Share post on different social media
+      # shareButtons:
+      #   facebook: true
+      #   twitter: true
+      #   linkedin: true
+      #   reddit: true
+      #   whatsapp: true
+      #   email: true
+      #   # tumblr: true
+      #   # pocket: true
+      #   # diaspora: true
+      #   # mastodon: true
 
     # Enable & configure "Notes" features
     notes:
@@ -286,23 +286,23 @@ params:
           noHighlightRe: /^no-highlight$/i
 
     # Enable to use `video-player` shortcode
-    videoPlayer:
-      enable: false
-      services:
-        # convert .js-player class into video player via https://plyr.io/
-        # Can play HTML5 Video, Audio, Youtube, Vimeo.
-        # For more info on setup: https://github.com/sampotts/plyr#quick-setup
-        plyr:
-          # options doc: https://github.com/sampotts/plyr#options
-          # fullscreen: true
+    # videoPlayer:
+    #   enable: false
+    #   services:
+    #     # convert .js-player class into video player via https://plyr.io/
+    #     # Can play HTML5 Video, Audio, Youtube, Vimeo.
+    #     # For more info on setup: https://github.com/sampotts/plyr#quick-setup
+    #     plyr:
+    #       # options doc: https://github.com/sampotts/plyr#options
+    #       # fullscreen: true
 
     # Enables copy code button
-    copyCodeButton:
-      enable: true
+    # copyCodeButton:
+    #   enable: true
 
     # Enable reading time support in post cards and in post pages
-    readingTime:
-      enable: true
+    # readingTime:
+    #   enable: true
 
 
   # Provide footer configuration.
