@@ -63,8 +63,8 @@ experiences:
     start: Nov 2021
     end: Jan 2022
     responsibilities:
-    - xxx 
-    - yyy
+    - Conducted a user study on computer graphics to analyze the impact of display characteristics (luminance, dynamic range, stereoscopic presentation) on gloss appearance, comparing it to real-world reference objects.
+    - Performed data preprocessing and statistical analysis using Pandas and SciPy, improving data processing efficiency by over 50% and enhancing model performance.
   # positions:
   # - designation: Research Assistant (Group for Visual Computing and Artificial Intelligence)
   #   start: Feb 2018
@@ -82,20 +82,11 @@ experiences:
     start: May 2021
     end: Oct 2021  
     responsibilities:
-    - xxx 
-    - yyy 
-
-- company:
-    name: Whale Cloud Technology Luxembourg S.à r.l.
-    url: "https://online.iwhalecloud.com/"
-    location: Luxembourg
-  positions:
-  - designation: OSS Engineer (Intern)
-    start: May 2021
-    end: Oct 2021  
-    responsibilities:
-    - xxx 
-    - yyy 
+    - Supported the deployment and maintenance of Operations Support Systems (OSS) for telecommunications networks, ensuring smooth and timely delivery of technical solutions to clients.
+    - Assisted in the configuration and integration of OSS software with existing network infrastructure, addressing compatibility, performance, and scalability issues.
+    - Analyzed network performance data to identify bottlenecks, optimize system performance, and propose improvements that enhanced operational efficiency by reducing downtime.
+    - Developed and automated scripts to streamline deployment, setup, and testing processes, significantly reducing manual effort and minimizing errors.
+    - Collaborated with cross-functional teams to troubleshoot and resolve technical issues during OSS implementation, maintaining customer satisfaction and meeting project deadlines.
 
 - company:
     name: Gosuncn Technology Group Co., Ltd
@@ -106,5 +97,7 @@ experiences:
     start: Apr 2017
     end: Sep 2017  
     responsibilities:
-    - xxx 
-    - yyy 
+    - Participated in the development of deep learning algorithms for facial detection and vehicle recognition, focusing on surveillance camera applications, such as license plate recognition and monitoring driver actions.
+    - Assisted in preparing, annotating, and augmenting large datasets for machine learning models, focusing on improving the accuracy and efficiency of recognition algorithms.
+    - Conducted data preprocessing and augmentation techniques, such as rotation, scaling, and flipping, to create diverse and balanced datasets for training, which improved model robustness.
+    - Assisted in fine-tuning pre-trained models and testing them on real-world IoT devices, ensuring compatibility and high performance in edge computing environments.
