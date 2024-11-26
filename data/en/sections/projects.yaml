@@ -27,3 +27,11 @@ projects:
   # url: ""
   summary: Developed a predictive model for enhancing decision-making in League of Legends by analyzing 2,268 game matches, preprocessing over one million data points, and using GANs and regression neural networks to estimate team lineups and win probabilities with 37% prediction accuracy.
   tags: ["academic", "GANs", "Deep Learning", "LoL"]
+
+projects:
+- name: 3D Design and Modeling
+  logo:
+  role: Contributor
+  timeline: "Mar. 2018 - Sep. 2018"
+  summary: Developed a 3D model for a Z-infinity 3D printer using Autodesk Inventor, enabling continuous vertical printing without height limitations, allowing the creation of tall structures and complex components directly from the print bed for innovative applications in construction and design.
+  tags: ["academic", "3D Modeling", "System Design"]
