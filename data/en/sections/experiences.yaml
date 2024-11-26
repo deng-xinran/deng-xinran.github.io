@@ -26,9 +26,13 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Contributed to the development of AI-driven solutions for generating 3D digital models of existing buildings, using RGB-D video data and modern cloud technologies to create IFC-standard models suitable for BIM integration.
+    - Designed and implemented machine learning algorithms for object detection, segmentation, and 3D reconstruction, enabling automated processing of building data with minimal manual intervention.
+    - Optimized data engineering pipelines to handle large-scale RGB-D datasets, ensuring efficient processing and high-quality output for 3D modeling tasks.
+    - Fine-tuned AI models and datasets to align with architectural and IFC (Industry Foundation Classes) standards, ensuring compliance with industry requirements.
+    - Actively participated in a start-up environment, contributing to the EXIST-funded research transfer project by translating academic innovations into market-ready applications for the construction industry.
+    - Worked closely with industry partners, including architects and engineers, to tailor digital solutions to the specific needs of the construction sector, achieving significant time savings and cost reductions for clients.
+
 
 - company:
     name: Fraunhofer Institute for Nondestructive Testing
@@ -41,9 +45,14 @@ experiences:
     start: Jul 2022
     end: Apr 2024
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Designed and implemented a computer vision-based system for defect detection and keypoint recognition in assembly tasks. Achieved 99.5% accuracy for object detection and 90.38% accuracy for keypoint detection using convolutional neural networks (CNNs).
+    - Conducted in-depth research on robotic systems, including KUKA LBR iiwa and ABB YuMi, mastering kinematics, control algorithms, and human-robot collaboration to optimize assembly precision and safety.
+    - Developed a user-friendly interface that reduced operators' cognitive workload and significantly improved production line efficiency.
+    - Applied various computer vision algorithms, such as object detection and edge detection, to identify and track assembly components, addressing the challenges of high precision in production processes.
+    - Designed and developed a virtual reality application for the Microsoft Hololens 2 platform, focusing on precise object manipulation features using MRTK Toolkit, Unity, and Visual Studio.
+    - Optimized interaction logic in VR applications, reducing task completion time by 20% during testing and improving interaction accuracy to over 98%.
+    - Conducted comprehensive testing and debugging to enhance the stability and usability of applications, ensuring smooth real-world functionality.
+
 
 - company:
     name: Max Planck Institute for Informatics
