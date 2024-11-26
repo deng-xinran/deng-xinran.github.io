@@ -20,10 +20,10 @@ buttons:
 
 projects:
 - name: Software Project - Predict the Winner of League of Legends using GANs
-  logo: images/projects/kubernetes.png
+  logo: images/projects/ann_logo.jpeg
   role: Contributor
   timeline: "Oct. 2018 - Mar. 2019"
   #repo: https://github.com/kubernetes/kubernetes
   # url: ""
   summary: Developed a predictive model for enhancing decision-making in League of Legends by analyzing 2,268 game matches, preprocessing over one million data points, and using GANs and regression neural networks to estimate team lineups and win probabilities with 37% prediction accuracy.
-  tags: ["GANs", "Deep Learning", "LoL","Academic"]
+  tags: ["Academic", "GANs", "Deep Learning", "LoL"]
