@@ -2,7 +2,7 @@
 section:
   name: Projects
   id: projects
-  enable: false
+  enable: true
   weight: 5
   showOnNavbar: true
   # Can optionally hide the title in sections
@@ -19,7 +19,7 @@ buttons:
   filter: "hobby"
 
 projects:
-- name: Kubernetes
+- name: Software Project - Predict the Winner of League of Legends using GANs
   logo: images/projects/kubernetes.png
   role: Contributor
   timeline: "March 2018 - Present"
