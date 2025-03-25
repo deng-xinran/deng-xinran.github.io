@@ -8,7 +8,7 @@ image: "images/cvbox.org.notion-avatar-smaller.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "yydands[at]gmail[dot]com"
-  phone: "+49 01746297707"
+  #phone: "+49 01746297707"
   #github: johndoe
   #linkedin: johndoe
 
