@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xinran Deng 邓欣然
+title: 邓欣然
 
 # Name pronunciation (optional)
 name_pronunciation: dèng syīn rán
@@ -11,7 +11,7 @@ last_name: Deng
 
 # Status emoji
 status:
-  icon: 📇
+  icon: 💪
 
 # Is this the primary user of the site?
 superuser: true
@@ -33,24 +33,16 @@ profiles:
   - icon: at-symbol
     url: 'yydands@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/deng-xinran
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/xinran-d/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+
 
 interests:
   - Machine Learning
   - Large Language Model
   - Object Detection
-  - Pose Estimation
 
 education:
   - area: MSc Systems Engineering
@@ -58,21 +50,34 @@ education:
     date_start: 2017-10-01
     date_end: 2024-06-01
     summary: |
-      
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Master Thesis: Deep Learning‑Based Assist System for Assembly Process of Fuel Cell Stacks.
+      Core Courses:
+      - Digital Signal Processing
+      - Telecommunications
+      - Neural Networks implementation and Applications
+      - Project Seminar Neural networks
+      - Automation Systems
+      - Information Storage 
+      - Audio/Visual Communication and Networks
+      Maternity and Parental Leave: 2021‑ 2022
+    
   - area: BSc Electronic Information Science and Technology
     institution: South China Agricultural University
     date_start: 2013-09-01
     date_end: 2017-06-30
     summary: |
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Core Courses :
+      - Advanced Mathematics I&II
+      - Linear Algebra, Probability Theory
+      - Principle of Statistics
+      - Analog and Digital Electronic Technology
+      - Principle and Application of Single Chip
+      - Introduction to Internet of things technology
+      - Sensor and Auto‑measurement Technology
+      - Principle of Embedded System 
+      - Basics of Computer Network 
+      - Digital Signal Processing
+      - C Programming Language,etc
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -106,9 +111,9 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Deep Learning
         description: ''
-        percent: 100
+        percent: 80
         icon: chart-bar
       - name: SQL
         description: ''
@@ -122,22 +127,22 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Cook
         description: ''
         percent: 100
-        icon: cat
+        icon: fa-kitchen-set
       - name: Photography
         description: ''
         percent: 80
         icon: camera
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
+  - name: English
+    percent: 85
+  - name: German
+    percent: 40
 
 # Awards.
 #   Add/remove as many awards below as you like.
