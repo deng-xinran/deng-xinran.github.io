@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Xinran Deng 邓欣然
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: dèng syīn rán
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Xinran
+last_name: Deng
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 📇
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,65 +20,55 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: AI Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: htw saar (Saarland University of Applied Sciences)
+    url: hhttps://www.htwsaar.de/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'yydands@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/deng-xinran
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/xinran-d/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Large Language Model
+  - Object Detection
+  - Pose Estimation
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Systems Engineering
+    institution: Saarland University
+    date_start: 2017-10
+    date_end: 2024-06
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Electronic Information Science and Technology
+    institution: South China Agricultural University
+    date_start: 2013-09
+    date_end: 2017-06
     summary: |
-      GPA: 3.4/4.0
-      
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -183,4 +173,7 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an AI researcher and engineer with hands-on experience in developing machine learning pipelines for computer vision and 3D point cloud processing. My recent work involves building Python-based tools using OpenCV, scikit-learn, and deep learning frameworks to extract structural features and optimize data workflows. I’m passionate about bridging AI theory with practical applications, and I enjoy solving real-world problems through predictive modeling and generative techniques.
+
+With a background in industrial visual inspection and academic research, I’m actively seeking AI-focused roles where I can contribute to model development, data processing, and prototyping of innovative solutions. I also explore side projects involving front-end tools to stay creative and full-stack aware.
+
