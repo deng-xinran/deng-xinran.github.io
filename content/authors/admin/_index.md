@@ -55,8 +55,8 @@ interests:
 education:
   - area: MSc Systems Engineering
     institution: Saarland University
-    date_start: 2017-10
-    date_end: 2024-06
+    date_start: 2017-10-01
+    date_end: 2024-06-01
     summary: |
       
 
@@ -66,8 +66,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Electronic Information Science and Technology
     institution: South China Agricultural University
-    date_start: 2013-09
-    date_end: 2017-06
+    date_start: 2013-09-01
+    date_end: 2017-06-30
     summary: |
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
