@@ -226,6 +226,3 @@ languages:
 ## About Me
 
 I am an AI researcher and engineer with hands-on experience in developing machine learning pipelines for computer vision and 3D point cloud processing. My recent work involves building Python-based tools using OpenCV, scikit-learn, and deep learning frameworks to extract structural features and optimize data workflows. I’m passionate about bridging AI theory with practical applications, and I enjoy solving real-world problems through predictive modeling and generative techniques.
-
-With a background in industrial visual inspection and academic research, I’m actively seeking AI-focused roles where I can contribute to model development, data processing, and prototyping of innovative solutions. I also explore side projects involving front-end tools to stay creative and full-stack aware.
-
