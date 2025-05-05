@@ -100,6 +100,61 @@ work:
       - Actively participated in a start-up environment, contributing to the EXIST-funded research transfer project by translating academic innovations into market-ready applications for the construction industry.
       - Worked closely with industry partners, including architects and engineers, to tailor digital solutions to the specific needs of the construction sector, achieving significant time savings and cost reductions for clients.
 
+position: Research Assistant(HiWi, Applied AI, Signal Processing and Data Analysis Group)
+    company_name: Fraunhofer IZFP
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-07-01
+    date_end: 2024-04-30
+    summary: |
+      Responsibilities include:
+      - Designed and implemented a computer vision-based system for defect detection and keypoint recognition in assembly tasks. Achieved 90.38% accuracy for key point detection using convolutional neural networks (CNNs).
+      Conducted in-depth research on robotic systems, including KUKA LBR iiwa and ABB YuMi, mastering kinematics, control algorithms, and human-robot collaboration to optimize assembly precision and safety.
+      - Developed a user-friendly interface that reduced operators’ cognitive workload and significantly improved production line efficiency.
+      - Applied various computer vision algorithms, such as object detection and edge detection, to identify and track assembly components, addressing the challenges of high precision in production processes.
+      - Designed and developed a virtual reality application for the Microsoft Hololens 2 platform, focusing on precise object manipulation features using MRTK Toolkit, Unity, and Visual Studio.
+      - Optimized interaction logic in VR applications, reducing task completion time by 20% during testing and improving interaction accuracy to over 98%.
+      - Conducted comprehensive testing and debugging to enhance the stability and usability of applications, ensuring smooth real-world functionality.
+
+position: Research Assistant(HiWi, Computer Graphics Group)
+company_name: Max Planck Institute for Informatics
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-11-01
+    date_end: 20202-01-30
+    summary: |
+      Responsibilities include:
+      - Conducted a user study on computer graphics to analyze the impact of display characteristics (luminance, dynamic range, stereoscopic presentation) on gloss appearance, comparing it to real-world reference objects.
+      - Performed data preprocessing and statistical analysis using Pandas and SciPy, improving data processing efficiency by over 50% and enhancing model performance.
+
+position: OSS Engineer (Intern)
+company_name: Whale Cloud Technology Luxembourg S.à r.l.
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-05-01
+    date_end: 20202-10-30
+    summary: |
+     - Supported the deployment and maintenance of Operations Support Systems (OSS) for telecommunications networks, ensuring smooth and timely delivery of technical solutions to clients.
+     - Assisted in the configuration and integration of OSS software with existing network infrastructure, addressing compatibility, performance, and scalability issues.
+     - Analyzed network performance data to identify bottlenecks, optimize system performance, and propose improvements that enhanced operational efficiency by reducing downtime.
+     - Developed and automated scripts to streamline deployment, setup, and testing processes, significantly reducing manual effort and minimizing errors.
+     - Collaborated with cross-functional teams to troubleshoot and resolve technical issues during OSS implementation, maintaining customer satisfaction and meeting project deadlines.
+
+position: Data Engineer in the Field of IoT (Intern)
+company_name: Gosuncn Technology Group Co., Ltd
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-05-01
+    date_end: 20202-10-30
+    summary: |
+     - Participated in the development of deep learning algorithms for facial detection and vehicle recognition, focusing on surveillance camera applications, such as license plate recognition and monitoring driver actions.
+     - Assisted in preparing, annotating, and augmenting large datasets for machine learning models, focusing on improving the accuracy and efficiency of recognition algorithms.
+     - Conducted data preprocessing and augmentation techniques, such as rotation, scaling, and flipping, to create diverse and balanced datasets for training, which improved model robustness.
+
+
+
+
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
