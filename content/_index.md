@@ -15,9 +15,9 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+      # button:
+      #   text: Download CV
+      #   url: uploads/resume.pdf
     design:
       css_class: dark
       background:
@@ -120,4 +120,4 @@ sections:
 #         # Card background color (CSS class)
 #         css_class: "bg-primary-700"
 #         css_style: ""
-# ---
+---
