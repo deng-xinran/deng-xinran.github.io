@@ -50,9 +50,9 @@ education:
     date_start: 2017-10-01
     date_end: 2024-06-01
     summary: |
-      Master Thesis: Deep Learning‑Based Assist System for Assembly Process of Fuel Cell Stacks.
-      Maternity and Parental Leave: 2021‑ 2022
       Core Courses:
+      - Master Thesis: Deep Learning‑Based Assist System for Assembly Process of Fuel Cell Stacks.
+      - Maternity and Parental Leave 2021‑ 2022
       - Digital Signal Processing
       - Telecommunications
       - Neural Networks implementation and Applications
@@ -77,28 +77,28 @@ education:
       - Digital Signal Processing
       - C Programming Language
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Research Associate 
+    company_name: htw saar (Saarland University of Applied Sciences)
+    company_url: 'https://www.htwsaar.de/'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-10-01
+    date_end: 'Present'
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Contributed to the development of AI-driven solutions for generating 3D digital models of existing buildings, using RGB-D data and modern cloud technologies to create IFC-standard models suitable for BIM integration.
+      - Designed and implemented machine learning algorithms for object detection, segmentation, and 3D reconstruction, enabling automated processing of building data with minimal manual intervention.
+      - Optimized data engineering pipelines to handle large-scale RGB-D datasets, ensuring efficient processing and high-quality output for 3D modeling tasks.
+      - Fine-tuned AI models and datasets to align with architectural and IFC (Industry Foundation Classes) standards, ensuring compliance with industry requirements.
+   
+  - position: AI Engineer
+    company_name: marisol.ai
+    company_url: 'https://marisol.cc/'
+    company_logo: ''
+    date_start: 2024-10-01
+    date_end: 'Present'
+    summary: |
+      - Actively participated in a start-up environment, contributing to the EXIST-funded research transfer project by translating academic innovations into market-ready applications for the construction industry.
+      - Worked closely with industry partners, including architects and engineers, to tailor digital solutions to the specific needs of the construction sector, achieving significant time savings and cost reductions for clients.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -140,38 +140,38 @@ languages:
   - name: English
     percent: 85
   - name: German
-    percent: 40
+    percent: 45
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+# awards:
+#   - title: Neural Networks and Deep Learning
+#     url: https://www.coursera.org/learn/neural-networks-deep-learning
+#     date: '2023-11-25'
+#     awarder: Coursera
+#     icon: coursera
+#     summary: |
+#       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+#   - title: Blockchain Fundamentals
+#     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+#     date: '2023-07-01'
+#     awarder: edX
+#     icon: edx
+#     summary: |
+#       Learned:
+#       - Synthesize your own blockchain solutions
+#       - Gain an in-depth understanding of the specific mechanics of Bitcoin
+#       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+#   - title: 'Object-Oriented Programming in R'
+#     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+#     certificate_url: https://www.datacamp.com
+#     date: '2023-01-21'
+#     awarder: datacamp
+#     icon: datacamp
+#     summary: |
+#       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
