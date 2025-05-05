@@ -100,7 +100,7 @@ work:
       - Actively participated in a start-up environment, contributing to the EXIST-funded research transfer project by translating academic innovations into market-ready applications for the construction industry.
       - Worked closely with industry partners, including architects and engineers, to tailor digital solutions to the specific needs of the construction sector, achieving significant time savings and cost reductions for clients.
 
-position: Research Assistant(HiWi, Applied AI, Signal Processing and Data Analysis Group)
+  - position: Research Assistant(HiWi, Applied AI, Signal Processing and Data Analysis Group)
     company_name: Fraunhofer IZFP
     company_url: ''
     company_logo: ''
@@ -116,8 +116,8 @@ position: Research Assistant(HiWi, Applied AI, Signal Processing and Data Analys
       - Optimized interaction logic in VR applications, reducing task completion time by 20% during testing and improving interaction accuracy to over 98%.
       - Conducted comprehensive testing and debugging to enhance the stability and usability of applications, ensuring smooth real-world functionality.
 
-position: Research Assistant(HiWi, Computer Graphics Group)
-company_name: Max Planck Institute for Informatics
+  - position: Research Assistant(HiWi, Computer Graphics Group)
+    company_name: Max Planck Institute for Informatics
     company_url: ''
     company_logo: ''
     date_start: 2021-11-01
@@ -127,8 +127,8 @@ company_name: Max Planck Institute for Informatics
       - Conducted a user study on computer graphics to analyze the impact of display characteristics (luminance, dynamic range, stereoscopic presentation) on gloss appearance, comparing it to real-world reference objects.
       - Performed data preprocessing and statistical analysis using Pandas and SciPy, improving data processing efficiency by over 50% and enhancing model performance.
 
-position: OSS Engineer (Intern)
-company_name: Whale Cloud Technology Luxembourg S.à r.l.
+  - position: OSS Engineer (Intern)
+    company_name: Whale Cloud Technology Luxembourg S.à r.l.
     company_url: ''
     company_logo: ''
     date_start: 2021-05-01
@@ -140,8 +140,8 @@ company_name: Whale Cloud Technology Luxembourg S.à r.l.
      - Developed and automated scripts to streamline deployment, setup, and testing processes, significantly reducing manual effort and minimizing errors.
      - Collaborated with cross-functional teams to troubleshoot and resolve technical issues during OSS implementation, maintaining customer satisfaction and meeting project deadlines.
 
-position: Data Engineer in the Field of IoT (Intern)
-company_name: Gosuncn Technology Group Co., Ltd
+  - position: Data Engineer in the Field of IoT (Intern)
+    company_name: Gosuncn Technology Group Co., Ltd
     company_url: ''
     company_logo: ''
     date_start: 2017-04-01
