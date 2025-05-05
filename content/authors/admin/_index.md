@@ -145,7 +145,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2017-04-01
-    date_end: 20217-09-30
+    date_end: 2017-09-30
     summary: |
      - Participated in the development of deep learning algorithms for facial detection and vehicle recognition, focusing on surveillance camera applications, such as license plate recognition and monitoring driver actions.
      - Assisted in preparing, annotating, and augmenting large datasets for machine learning models, focusing on improving the accuracy and efficiency of recognition algorithms.
