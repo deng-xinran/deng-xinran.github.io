@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 邓欣然
+title: 鄧欣然
 
 # Name pronunciation (optional)
 name_pronunciation: dèng syīn rán
@@ -51,6 +51,7 @@ education:
     date_end: 2024-06-01
     summary: |
       Master Thesis: Deep Learning‑Based Assist System for Assembly Process of Fuel Cell Stacks.
+      Maternity and Parental Leave: 2021‑ 2022
       Core Courses:
       - Digital Signal Processing
       - Telecommunications
@@ -59,7 +60,7 @@ education:
       - Automation Systems
       - Information Storage 
       - Audio/Visual Communication and Networks
-      Maternity and Parental Leave: 2021‑ 2022
+      
     
   - area: BSc Electronic Information Science and Technology
     institution: South China Agricultural University
@@ -67,17 +68,14 @@ education:
     date_end: 2017-06-30
     summary: |
       Core Courses :
-      - Advanced Mathematics I&II
-      - Linear Algebra, Probability Theory
-      - Principle of Statistics
+      - Advanced Mathematics I&II, Linear Algebra, Probability Theory, Principle of Statistics
       - Analog and Digital Electronic Technology
       - Principle and Application of Single Chip
       - Introduction to Internet of things technology
       - Sensor and Auto‑measurement Technology
       - Principle of Embedded System 
-      - Basics of Computer Network 
       - Digital Signal Processing
-      - C Programming Language,etc
+      - C Programming Language
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -130,7 +128,7 @@ skills:
       - name: Cook
         description: ''
         percent: 100
-        icon: fa-kitchen-set
+        icon: cooking-pot
       - name: Photography
         description: ''
         percent: 80
