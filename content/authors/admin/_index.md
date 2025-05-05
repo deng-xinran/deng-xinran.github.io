@@ -53,13 +53,9 @@ education:
       Core Courses:
       - Master Thesis: Deep Learning‑Based Assist System for Assembly Process of Fuel Cell Stacks.
       - Maternity and Parental Leave 2021‑ 2022
-      - Digital Signal Processing
-      - Telecommunications
-      - Neural Networks implementation and Applications
-      - Project Seminar Neural networks
-      - Automation Systems
-      - Information Storage 
-      - Audio/Visual Communication and Networks
+      - Digital Signal Processing, Automation Systems
+      - Neural Networks implementation and Applications, Project Seminar Neural networks
+      - Information Storage, Telecommunications, Audio/Visual Communication and Networks
       
     
   - area: BSc Electronic Information Science and Technology
@@ -70,12 +66,10 @@ education:
       Core Courses :
       - Advanced Mathematics I&II, Linear Algebra, Probability Theory, Principle of Statistics
       - Analog and Digital Electronic Technology
-      - Principle and Application of Single Chip
+      - Principle and Application of Single Chip, Principle of Embedded System
       - Introduction to Internet of things technology
       - Sensor and Auto‑measurement Technology
-      - Principle of Embedded System 
-      - Digital Signal Processing
-      - C Programming Language
+      
 work:
   - position: Research Associate 
     company_name: htw saar (Saarland University of Applied Sciences)
@@ -100,7 +94,7 @@ work:
       - Actively participated in a start-up environment, contributing to the EXIST-funded research transfer project by translating academic innovations into market-ready applications for the construction industry.
       - Worked closely with industry partners, including architects and engineers, to tailor digital solutions to the specific needs of the construction sector, achieving significant time savings and cost reductions for clients.
 
-  - position: Research Assistant(HiWi, Applied AI, Signal Processing and Data Analysis Group)
+  - position: Research Assistant (HiWi, Applied AI, Signal Processing and Data Analysis Group)
     company_name: Fraunhofer IZFP
     company_url: ''
     company_logo: ''
@@ -116,7 +110,7 @@ work:
       - Optimized interaction logic in VR applications, reducing task completion time by 20% during testing and improving interaction accuracy to over 98%.
       - Conducted comprehensive testing and debugging to enhance the stability and usability of applications, ensuring smooth real-world functionality.
 
-  - position: Research Assistant(HiWi, Computer Graphics Group)
+  - position: Research Assistant (HiWi, Computer Graphics Group)
     company_name: Max Planck Institute for Informatics
     company_url: ''
     company_logo: ''
