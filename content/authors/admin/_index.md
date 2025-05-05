@@ -121,7 +121,7 @@ company_name: Max Planck Institute for Informatics
     company_url: ''
     company_logo: ''
     date_start: 2021-11-01
-    date_end: 20202-01-30
+    date_end: 2022-01-30
     summary: |
       Responsibilities include:
       - Conducted a user study on computer graphics to analyze the impact of display characteristics (luminance, dynamic range, stereoscopic presentation) on gloss appearance, comparing it to real-world reference objects.
@@ -132,7 +132,7 @@ company_name: Whale Cloud Technology Luxembourg S.à r.l.
     company_url: ''
     company_logo: ''
     date_start: 2021-05-01
-    date_end: 20202-10-30
+    date_end: 2021-10-30
     summary: |
      - Supported the deployment and maintenance of Operations Support Systems (OSS) for telecommunications networks, ensuring smooth and timely delivery of technical solutions to clients.
      - Assisted in the configuration and integration of OSS software with existing network infrastructure, addressing compatibility, performance, and scalability issues.
@@ -144,8 +144,8 @@ position: Data Engineer in the Field of IoT (Intern)
 company_name: Gosuncn Technology Group Co., Ltd
     company_url: ''
     company_logo: ''
-    date_start: 2021-05-01
-    date_end: 20202-10-30
+    date_start: 2017-04-01
+    date_end: 20217-09-30
     summary: |
      - Participated in the development of deep learning algorithms for facial detection and vehicle recognition, focusing on surveillance camera applications, such as license plate recognition and monitoring driver actions.
      - Assisted in preparing, annotating, and augmenting large datasets for machine learning models, focusing on improving the accuracy and efficiency of recognition algorithms.
