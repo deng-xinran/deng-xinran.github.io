@@ -37,7 +37,7 @@ sections:
       text: |-
         With a background in industrial visual inspection and academic research, I’m actively seeking AI-focused roles where I can contribute to model development, data processing, and prototyping of innovative solutions.
         
-        I also explore side projects involving wechat-mini program and ios mini app development to stay creative and full-stack aware.
+        I also explore side projects involving wechat-mini programs and ios mini app development to stay creative and full-stack aware.
     design:
       columns: '1'
   # - block: collection
