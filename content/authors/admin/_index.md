@@ -82,7 +82,7 @@ work:
     company_url: 'https://www.htwsaar.de/'
     company_logo: ''
     date_start: 2024-10-01
-    date_end: 'Present'
+    date_end: ''
     summary: |
       Responsibilities include:
       - Contributed to the development of AI-driven solutions for generating 3D digital models of existing buildings, using RGB-D data and modern cloud technologies to create IFC-standard models suitable for BIM integration.
@@ -95,7 +95,7 @@ work:
     company_url: 'https://marisol.cc/'
     company_logo: ''
     date_start: 2024-10-01
-    date_end: 'Present'
+    date_end: ''
     summary: |
       - Actively participated in a start-up environment, contributing to the EXIST-funded research transfer project by translating academic innovations into market-ready applications for the construction industry.
       - Worked closely with industry partners, including architects and engineers, to tailor digital solutions to the specific needs of the construction sector, achieving significant time savings and cost reductions for clients.
