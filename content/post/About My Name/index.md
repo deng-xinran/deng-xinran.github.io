@@ -1,6 +1,7 @@
 ---
 title: About My Name
 date: 2024-05-01
+id: post
 ---
 
 The most accurate pronunciation of my name is Dèng syīn rán in Mandarin or Dahng Haan-Yin in Cantonese, but I wouldn’t mind if you call me Hsin-Ran, Sheen-Ran, or simply “XR.” In Chinese naming conventions, the surname precedes the given name, so “Deng” is my family name, and “Xinran” is my given name. In publications, however, I follow the Western convention and list my name as Xinran Deng.
