@@ -174,9 +174,9 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cook
+      - name: Cooking
         description: ''
-        percent: 100
+        percent: 90
         icon: cooking-pot
       - name: Photography
         description: ''
