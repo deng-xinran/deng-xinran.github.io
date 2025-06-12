@@ -11,7 +11,7 @@ last_name: Deng
 
 # Status emoji
 status:
-  icon: 💪
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -24,7 +24,7 @@ role: AI Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: htw saar (Saarland University of Applied Sciences)
+  - name: htw saar
     url: hhttps://www.htwsaar.de/
 
 # Social network links
@@ -225,4 +225,4 @@ languages:
 
 ## About Me
 
-I am an AI researcher and engineer with hands-on experience in developing machine learning pipelines for computer vision and 3D point cloud processing. My recent work involves building Python-based tools using OpenCV, scikit-learn, and deep learning frameworks to extract structural features and optimize data workflows. I’m passionate about bridging AI theory with practical applications, and I enjoy solving real-world problems through predictive modeling and generative techniques.
+I am a researcher and developer in the field with hands-on experience in the development of machine learning pipelines for computer vision and point cloud 3D processing. My recent focus is on the development of Python-based software using OpenCV, scikit-learn, and deep learning frameworks for structural feature extraction and optimization of data workflows. I am interested in taking AI theory to practice, and I thrive on resolving real-world challenges through predictive modelling and generative methods.

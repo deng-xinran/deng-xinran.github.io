@@ -32,12 +32,14 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '💡'
+      title: '💡 Credo'
       subtitle: ''
-      text: |-
-        With a background in industrial visual inspection and academic research, I’m actively seeking AI-focused roles where I can contribute to model development, data processing, and prototyping of innovative solutions.
-        
-        I also explore side projects involving wechat-mini programs and ios mini app development to stay creative and full-stack aware.
+      text: |
+        > *Three passions, simple but overwhelmingly strong, have governed my life:*  
+        > *the longing for love, the search for knowledge, and unbearable pity for the suffering of mankind.*  
+        >
+        > — Bertrand Russell
+
     design:
       columns: '1'
   # - block: collection
