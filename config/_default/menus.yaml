@@ -16,6 +16,6 @@ main:
   - name: Projects
     url: projects/
     weight: 30
-  - name: Misc.
+  - name: Misc
     url: misc/
     wight: 40
