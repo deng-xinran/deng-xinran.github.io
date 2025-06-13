@@ -1,33 +1,42 @@
 ---
 title: "Misc"
 date: 2025-06-12
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        percent: 80
-      - name: Deep Learning
-        percent: 80
-      - name: SQL
-        percent: 40
-  - name: Hobbies
-    items:
-      - name: Hiking
-        percent: 60
-      - name: Cooking
-        percent: 90
-      - name: Photography
-        percent: 80
-
-languages:
-  - name: Chinese
-    percent: 100
-  - name: English
-    percent: 85
-  - name: German
-    percent: 45
 ---
 
-Some things I do outside of work — that still reflect how I think and learn.
+🧶Here are some of the things I enjoy outside of work — or maybe they’re part of the work, just in disguise.
+
+
+### 🌍 My Travel Map
+
+Based in Germany 🇩🇪, here’s a simple map of countries I’ve been to:
 
 ![Visited Countries](/myvisitedmap.png)
+
+
+### 💼 Technical Skills
+
+| Skill           | Proficiency |
+|----------------|-------------|
+| 🐍 Python       | ██████████░░ 80% |
+| 🤖 Deep Learning| ██████████░░ 80% |
+| 🗃️ SQL          | ██████░░░░░░ 40% |
+
+---
+
+### 🧘 Hobbies
+
+| Hobby         | Enjoyment |
+|---------------|-----------|
+| 🥾 Hiking      | ███████░░░ 60% |
+| 🍳 Cooking     | ██████████ 90% |
+| 📷 Photography | █████████░ 80% |
+
+---
+
+### 🌐 Languages
+
+| Language | Fluency |
+|----------|---------|
+| 🇨🇳 Chinese | 🔵🔵🔵🔵🔵 100% |
+| 🇺🇸 English | 🔵🔵🔵🔵⚪ 85% |
+| 🇩🇪 German  | 🔵🔵⚪⚪⚪ 45% |
