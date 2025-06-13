@@ -49,6 +49,7 @@ education:
     institution: Saarland University
     date_start: 2017-10-01
     date_end: 2024-06-01
+    type: education
     summary: |
       Core Courses:
       - Master Thesis: Deep Learning‑Based Assist System for Assembly Process of Fuel Cell Stacks.
@@ -62,6 +63,7 @@ education:
     institution: South China Agricultural University
     date_start: 2013-09-01
     date_end: 2017-06-30
+    type: education
     summary: |
       Core Courses :
       - Advanced Mathematics I&II, Linear Algebra, Probability Theory, Principle of Statistics
@@ -77,6 +79,7 @@ work:
     company_logo: ''
     date_start: 2024-10-01
     date_end: ''
+    type: work
     summary: |
       Responsibilities include:
       - Contributed to the development of AI-driven solutions for generating 3D digital models of existing buildings, using RGB-D data and modern cloud technologies to create IFC-standard models suitable for BIM integration.
@@ -90,6 +93,7 @@ work:
     company_logo: ''
     date_start: 2024-10-01
     date_end: ''
+    type: work
     summary: |
       - Actively participated in a start-up environment, contributing to the EXIST-funded research transfer project by translating academic innovations into market-ready applications for the construction industry.
       - Worked closely with industry partners, including architects and engineers, to tailor digital solutions to the specific needs of the construction sector, achieving significant time savings and cost reductions for clients.
@@ -100,6 +104,7 @@ work:
     company_logo: ''
     date_start: 2022-07-01
     date_end: 2024-04-30
+    type: work
     summary: |
       Responsibilities include:
       - Designed and implemented a computer vision-based system for defect detection and keypoint recognition in assembly tasks. Achieved 90.38% accuracy for key point detection using convolutional neural networks (CNNs).
@@ -116,6 +121,7 @@ work:
     company_logo: ''
     date_start: 2021-11-01
     date_end: 2022-01-30
+    type: work   
     summary: |
       Responsibilities include:
       - Conducted a user study on computer graphics to analyze the impact of display characteristics (luminance, dynamic range, stereoscopic presentation) on gloss appearance, comparing it to real-world reference objects.
@@ -127,6 +133,7 @@ work:
     company_logo: ''
     date_start: 2021-05-01
     date_end: 2021-10-30
+    type: work    
     summary: |
      - Supported the deployment and maintenance of Operations Support Systems (OSS) for telecommunications networks, ensuring smooth and timely delivery of technical solutions to clients.
      - Assisted in the configuration and integration of OSS software with existing network infrastructure, addressing compatibility, performance, and scalability issues.
@@ -140,6 +147,7 @@ work:
     company_logo: ''
     date_start: 2017-04-01
     date_end: 2017-09-30
+    type: work  
     summary: |
      - Participated in the development of deep learning algorithms for facial detection and vehicle recognition, focusing on surveillance camera applications, such as license plate recognition and monitoring driver actions.
      - Assisted in preparing, annotating, and augmenting large datasets for machine learning models, focusing on improving the accuracy and efficiency of recognition algorithms.
