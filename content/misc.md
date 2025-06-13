@@ -11,7 +11,7 @@ Some things I do outside of work — that still reflect how I think and learn.
 
 Here’s a simple map of countries I’ve been to:
 
-![Visited Countries](/content/misc/myVisitedPlaces.png)
+![Visited Countries](/content/misc/featured.png)
 
 Or explore more in the interactive version:
 
