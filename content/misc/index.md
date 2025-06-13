@@ -8,6 +8,16 @@ date: 2025-06-12
 
 ### 🌍 My Travel Map
 
+> **千里之行，始于足下**  
+> *A journey of a thousand miles begins with a single step.*  
+> — 老子 · Laozi, *Tao Te Ching*
+
+This quote from Laozi, an ancient Chinese philosopher, reminds me that every step — whether in research, in life, or on the road — matters.
+
+---
+
+
+
 Based in Germany 🇩🇪, here’s a simple map of countries I’ve been to:
 
 ![Visited Countries](/myvisitedmap.png)
