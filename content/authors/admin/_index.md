@@ -82,12 +82,8 @@ work:
     date_end: ''
     type: work
     summary: |
-      Responsibilities include:
-      - Contributed to the development of AI-driven solutions for generating 3D digital models of existing buildings, using RGB-D data and modern cloud technologies to create IFC-standard models suitable for BIM integration.
-      - Designed and implemented machine learning algorithms for object detection, segmentation, and 3D reconstruction, enabling automated processing of building data with minimal manual intervention.
-      - Optimized data engineering pipelines to handle large-scale RGB-D datasets, ensuring efficient processing and high-quality output for 3D modeling tasks.
-      - Fine-tuned AI models and datasets to align with architectural and IFC (Industry Foundation Classes) standards, ensuring compliance with industry requirements.
-   
+      Designed and implemented machine learning pipelines for 3D reconstruction and feature extraction from RGB-D data, supporting automated, industry-compliant digital building models.
+      
   - position: AI Engineer
     company_name: marisol.ai
     company_url: 'https://marisol.cc/'
@@ -194,4 +190,5 @@ work:
 
 ## About Me
 
-I am a researcher and developer in the field with hands-on experience in the development of machine learning pipelines for computer vision and point cloud 3D processing. My recent focus is on the development of Python-based software using OpenCV, scikit-learn, and deep learning frameworks for structural feature extraction and optimization of data workflows. I am interested in taking AI theory to practice, and I thrive on resolving real-world challenges through predictive modelling and generative methods.
+I am a researcher and engineer working at the intersection of machine learning, trustworthy AI, and LLM-based agent systems. My work focuses on developing reliable and efficient AI models with practical deployment in mind—bridging the gap between research and real-world applications.
+I have experience in designing and optimizing deep learning pipelines for computer vision, 3D point cloud processing, and data-driven decision systems. Recently, my research explores how information-theoretic perspectives can improve privacy and robustness in large models while maintaining performance. I am particularly interested in understanding and building autonomous, safe, and verifiable AI agents.
