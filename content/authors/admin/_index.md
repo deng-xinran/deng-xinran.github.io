@@ -52,12 +52,9 @@ education:
     date_end: 2024-06-01
     type: education
     summary: |
-      Core Courses:
+
       - Master Thesis: Deep Learning‑Based Assist System for Assembly Process of Fuel Cell Stacks.
-      - Maternity and Parental Leave 2021‑ 2022
-      - Digital Signal Processing, Automation Systems
-      - Neural Networks implementation and Applications, Project Seminar Neural networks
-      - Information Storage, Telecommunications, Audio/Visual Communication and Networks
+      - Maternity and Parental Leave in 2021‑ 2022.
       
     
   - area: BSc Electronic Information Science and Technology
@@ -65,13 +62,6 @@ education:
     date_start: 2013-09-01
     date_end: 2017-06-30
     type: education
-    summary: |
-      Core Courses :
-      - Advanced Mathematics I&II, Linear Algebra, Probability Theory, Principle of Statistics
-      - Analog and Digital Electronic Technology
-      - Principle and Application of Single Chip, Principle of Embedded System
-      - Introduction to Internet of things technology
-      - Sensor and Auto‑measurement Technology
       
 work:
   - position: Research Associate 
