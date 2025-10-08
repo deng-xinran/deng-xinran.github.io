@@ -40,9 +40,10 @@ profiles:
 
 
 interests:
-  - Machine Learning
-  - Large Language Model
-  - Object Detection
+  - Trustworthy Machine Learning
+  - LLM-based Agent
+  - Efficient AI
+  
 
 education:
   - area: MSc Systems Engineering
