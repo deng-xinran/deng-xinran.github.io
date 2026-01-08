@@ -84,7 +84,7 @@ work:
     summary: |
      Worked in an EXIST-funded start-up environment, applying AI and data-driven methods to develop efficient digital solutions for the construction domain.
 
-  - position: Research Assistant (HiWi, Applied AI, Signal Processing and Data Analysis Group)
+  - position: Research Assistant in Applied AI, Signal Processing and Data Analysis Group
     company_name: Fraunhofer IZFP
     company_url: ''
     company_logo: ''
@@ -94,7 +94,7 @@ work:
     summary: |
      Developed computer vision and human–robot collaboration systems for intelligent assembly, combining CNN-based defect detection, robotic kinematics, and VR/AR interfaces to enhance precision, safety, and user experience in industrial environments.
 
-  - position: Research Assistant (HiWi, Computer Graphics Group)
+  - position: Research Assistant in Computer Graphics Group
     company_name: Max Planck Institute for Informatics
     company_url: ''
     company_logo: ''
