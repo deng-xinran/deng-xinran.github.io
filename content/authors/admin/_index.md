@@ -164,5 +164,4 @@ work:
 
 ## About Me
 
-I am a researcher and engineer working at the intersection of machine learning, trustworthy AI, and LLM-based agent systems. My work focuses on developing reliable and efficient AI models with practical deployment in mind—bridging the gap between research and real-world applications.
-I have experience in designing and optimizing deep learning pipelines for computer vision, 3D point cloud processing, and data-driven decision systems. Recently, my research explores how information-theoretic perspectives can improve privacy and robustness in large models while maintaining performance. I am particularly interested in understanding and building autonomous, safe, and verifiable AI agents.
+I am a researcher and engineer with a background in machine learning and deep learning systems, and extensive experience in computer vision, 3D data, and LLM-based agent processes. My current research interests lie in trustworthy and secure AI, with a particular focus on privacy, robustness, and reliability in large-scale models. I am seeking PhD projects to develop cutting-edge approaches for secure and verifiable AI systems.
