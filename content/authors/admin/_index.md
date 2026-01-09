@@ -55,7 +55,7 @@ education:
 
       - Master Thesis: Deep Learning‑Based Assist System for Assembly Process of Fuel Cell Stacks.
       - Specialization: Information and Communication Systems
-      - Note: Maternity and Parental Leave in 2021‑ 2022.
+      - Note: Maternity and Parental Leave in 2021‑2022.
       
     
   - area: BSc Electronic Information Science and Technology
