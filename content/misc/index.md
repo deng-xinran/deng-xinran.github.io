@@ -50,6 +50,6 @@ Based in Germany 🇩🇪, here’s a simple map of countries I’ve been to:
 | Language | Fluency |
 |----------|---------|
 | 🇨🇳 Mandarin Chinese | 🔵🔵🔵🔵🔵 99% |
-| 🇭🇰 Cantonese        | 🔵🔵🔵🔵🔵 99% |
+| 🇨🇳 Cantonese        | 🔵🔵🔵🔵🔵 99% |
 | 🇺🇸 English          | 🔵🔵🔵🔵⚪ 85% |
 | 🇩🇪 German           | 🔵🔵🔵⚪⚪ 60% |
